@@ -54,16 +54,16 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shreya-gupta-725027143/">
+  <a href="https://www.linkedin.com/in/shreya-gupta-725027143/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:shree.gupta617@gmail.com">
+  <a href="mailto:shree.gupta617@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://hashnode.com/@shreya6">
+  <a href="https://hashnode.com/@shreya6" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode Badge"/>
   </a>
-   <a href="https://instagram.com/shree.gupta6">
+   <a href="https://instagram.com/shree.gupta6" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
