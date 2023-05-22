@@ -1,9 +1,9 @@
 
 <h1>Hi , I'm Shreya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-*I'm an experienced Web developer with a strong focus on DevOps practices. My expertise lies in building robust web applications using PHP frameworks such as Laravel, CodeIgniter, jQuery, and JavaScript. I am passionate about configuring CI/CD pipelines, creating Kubernetes clusters, and deploying production-ready applications. My goal is to transition into a role as a DevOps Engineer.*
+*I'm an experienced Web developer with a strong focus on DevOps practices. My expertise lies in building robust web applications using `PHP` frameworks such as `Laravel`, `CodeIgniter`, `jQuery`, and `JavaScript`. I am passionate about configuring CI/CD pipelines, creating Kubernetes clusters, and deploying production-ready applications. My goal is to transition into a role as a DevOps Engineer.*
 
-*My toolkit includes AWS Services (IAM, EC2, S3, CloudFormation, RDS, DynamoDB, CloudWatch, VPC, Route53, CloudFront, Lambda, API Gateway, Load Balancer, CodeDeploy, CodeCommit, CodeBuild), Docker, Docker Swarm, Terraform, Ansible, Jenkins, Kubernetes, Maven, Grafana, Prometheus, Linux, Bash Scripting, Git, GitHub, MySQL DB, SQL, Jira, GitLab, DevOps, CI/CD, Cloud Computing, Microservices, Serverless, and more.*
+*My toolkit includes `AWS Services` (`IAM`, `EC2`, `S3`, `CloudFormation`, `RDS`, `DynamoDB`, `CloudWatch`, `VPC`, `Route53`, `CloudFront`, `Lambda`, `API Gateway`, `Load Balancer`, `CodeDeploy`, `CodeCommit`, `CodeBuild`), `Docker`, `Docker Swarm`, `Terraform`, `Ansible`, `Jenkins`, `Kubernetes`, `Maven`, `Grafana`, `Prometheus`, `Linux`, `Bash Scripting`, `Git`, `GitHub`, `MySQL DB`, `SQL`, `Jira`, `GitLab`, `DevOps`, `CI/CD`, `Cloud Computing`, `Microservices`, `Serverless`, and more.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeegupta&show_icons=true&theme=radical)
 
