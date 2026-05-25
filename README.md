@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Shreya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Full-Stack Software Engineer | Shopify & React Developer
+### Full-Stack Software Engineer
 
-I'm an experienced Full-Stack Web Developer with 6+ years of experience building scalable web applications, Shopify solutions, and modern eCommerce platforms. I specialize in `React.js`, `Next.js`, `Node.js`, `Laravel`, `PHP`, `Shopify`, and `Shopify Hydrogen`.
+I'm an experienced Full-Stack Web Developer with 7+ years of experience building scalable web applications, Shopify solutions, and modern eCommerce platforms. I specialize in `React.js`, `Next.js`, `Node.js`, `Laravel`, `PHP`, `Shopify`, and `Shopify Hydrogen`.
 
 I enjoy creating performance-optimized applications, custom APIs, headless commerce solutions, and user-focused digital experiences using modern web technologies.
 
@@ -38,12 +38,6 @@ I enjoy creating performance-optimized applications, custom APIs, headless comme
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreeegupta&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 <div id="badges" align="center">
@@ -54,10 +48,6 @@ I enjoy creating performance-optimized applications, custom APIs, headless comme
 
 <a href="mailto:shree.gupta617@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-
-<a href="https://hashnode.com/@shreya6" target="_blank">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
 </a>
 
 <a href="https://instagram.com/shree.gupta6" target="_blank">
